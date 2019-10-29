@@ -1,0 +1,6 @@
+C:\Users\byfra\Documents\CFGS2\SPDVI\Examen.Tema1.FranGomez\Debugger\BrownfieldDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\byfra\Documents\CFGS2\SPDVI\Examen.Tema1.FranGomez\Debugger\BrownfieldDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\byfra\Documents\CFGS2\SPDVI\Examen.Tema1.FranGomez\Debugger\BrownfieldDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\byfra\Documents\CFGS2\SPDVI\Examen.Tema1.FranGomez\Debugger\BrownfieldDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\byfra\Documents\CFGS2\SPDVI\Examen.Tema1.FranGomez\Debugger\BrownfieldDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\byfra\Documents\CFGS2\SPDVI\Examen.Tema1.FranGomez\Debugger\BrownfieldDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
